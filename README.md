@@ -9,10 +9,10 @@ This repository contains:
     - Patescibacteria proteomes from NCBI RefSeq212 database
     - MSA file for VirB4 phylogeny
     - VirB4 phylogenetic tree file
-    - Matrix of patristic distances from VirB4 phylogeny
+    - Matrix of patristic distances calculated from from the VirB4 phylogenetic tree
     - Custom HMM profiles generated from the Patescibacteria proteome
 - Python script to parse `hmmscan --domtblout` results 
-- Python script to parse a matrix of patristic distances calculated from the VirB4 phylogenetic tree from Patescibacteria 
+- Python script to parse the matrix of patristic distances calculated from the VirB4 phylogenetic tree from Patescibacteria 
 
 For detailed information of the methods used and other supplementary material, please find a preprint version on [BioRxiv](https://doi.org/10.1101/2025.01.22.634366).
 
