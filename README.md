@@ -7,14 +7,14 @@ The Patescibacteria proteomes from NCBI RefSeq212 database used in the analysis 
 This repository contains:
 - The [data](data) used and generated in the study:
     - Patescibacteria proteomes from NCBI RefSeq212 database
-    - MSA file for VirB4 phylogeny
+    - Multiple sequence alignment of VirB4 homologs used in the phylogenetic reconstruction
     - VirB4 phylogenetic tree file
-    - Matrix of patristic distances calculated from from the VirB4 phylogenetic tree
-    - Custom HMM profiles generated from the Patescibacteria proteome
+    - Matrix of patristic distances calculated from the VirB4 phylogenetic tree
+    - Custom HMM profiles generated from the Patescibacteria proteome (CPR profiles)
 - Python script to parse `hmmscan --domtblout` results 
 - Python script to parse the matrix of patristic distances calculated from the VirB4 phylogenetic tree from Patescibacteria 
 
-For detailed information of the methods used and other supplementary material, please find a preprint version on [BioRxiv](https://doi.org/10.1101/2025.01.22.634366).
+For detailed information on the methods used and other supplementary material, please find a preprint version on [BioRxiv](https://doi.org/10.1101/2025.01.22.634366).
 
 # Citation
 If you find this work useful, please consider citing us:
