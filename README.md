@@ -14,20 +14,22 @@ This repository contains:
 - Python script to parse `hmmscan --domtblout` results 
 - Python script to parse the matrix of patristic distances calculated from the VirB4 phylogenetic tree of Patescibacteria 
 
-For detailed information on the methods used and other supplementary material, please find a preprint version on [BioRxiv](https://doi.org/10.1101/2025.01.22.634366).
+For detailed information on the methods used and other supplementary material, please find the online supplementary material [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001409).
 
 # Citation
 If you find this work useful, please consider citing us:
 
-Quinonero-Coronel, M. D. M., Cabello-Yeves, P. J., Haro-Moreno, J. M., Rodriguez-Valera, F., & Garcillan-Barcia, M. P. (2025). The Type IV Secretion System of Patescibacteria is homologous to the bacterial monoderm conjugation machinery. bioRxiv, 2025-01.
+Quiñonero-Coronel MDM, Cabello-Yeves PJ, Haro-Moreno JM, Rodriguez-Valera F, Garcillán-Barcia MP. The type IV secretion system of Patescibacteria is homologous to the bacterial monoderm conjugation machinery. Microb Genom. 2025 May;11(5):001409. doi: 10.1099/mgen.0.001409. PMID: 40408144; PMCID: PMC12102498.
 
 ```
 @article{quinonero2025type,
-  title={The Type IV Secretion System of Patescibacteria is homologous to the bacterial monoderm conjugation machinery},
-  author={Quinonero-Coronel, Maria del Mar and Cabello-Yeves, Pedro J and Haro-Moreno, Jose M and Rodriguez-Valera, Francisco and Garcillan-Barcia, M Pilar},
-  journal={bioRxiv},
-  pages={2025--01},
+  title={The type IV secretion system of Patescibacteria is homologous to the bacterial monoderm conjugation machinery},
+  author={Qui{\~n}onero-Coronel, Mar{\'\i}a del Mar and Cabello-Yeves, Pedro J and Haro-Moreno, Jose M and Rodriguez-Valera, Francisco and Garcill{\'a}n-Barcia, M Pilar},
+  journal={Microbial Genomics},
+  volume={11},
+  number={5},
+  pages={001409},
   year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+  publisher={Microbiology Society}
 }
 ```
