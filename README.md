@@ -14,7 +14,7 @@ This repository contains:
 - Python script to parse `hmmscan --domtblout` results 
 - Python script to parse the matrix of patristic distances calculated from the VirB4 phylogenetic tree of Patescibacteria 
 
-For detailed information on the methods used and other supplementary material, please find the online supplementary material [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001409).
+For detailed information on the methods used and other supplementary material, please find the online supplementary material on [Microbial Genomics](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001409).
 
 # Citation
 If you find this work useful, please consider citing us:
